@@ -2,7 +2,7 @@
 
 ![AI Model Hub](frontend/public/vite.svg)
 
-**AI Model Hub** is a full-stack web application for **image classification** using deep learning. Users can upload images, choose a model, and get real-time predictions with confidence scores. The project demonstrates expertise in **Python (FastAPI, PyTorch), TypeScript, React, and full-stack development**.
+**Image Classification Web App** is a full-stack web application for **image classification** using deep learning. Users can upload images, choose a model, and get real-time predictions with confidence scores. The project demonstrates expertise in **Python (FastAPI, PyTorch), TypeScript, React, and full-stack development**.
 
 ---
 
