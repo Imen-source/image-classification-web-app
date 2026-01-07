@@ -1,4 +1,4 @@
-# AI Model Hub
+# Image Classification Web App
 
 ![AI Model Hub](frontend/public/vite.svg)
 
